@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+				<meta charset="UTF-8">
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<title>Заголовок страницы</title>
+				<link rel="stylesheet" href="ayan.css"></link>
+</head>
+<body>
+				<h1 style="text-align: center;">Smart Control</h1>
+				<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  <input type="text" placeholder="Search..">
+</div>
+</body>
+</html>
